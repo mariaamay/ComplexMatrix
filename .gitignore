@@ -1,0 +1,3 @@
+# Ignore IDEA files and directories
+.idea/
+MatrixComplexNumbersCalc.iml
